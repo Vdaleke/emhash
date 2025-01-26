@@ -37,6 +37,7 @@
 #include <iterator>
 #include <algorithm>
 #include <memory>
+#include <xmmintrin.h> 
 
 #undef  EMH_NEW
 #undef  EMH_EMPTY
